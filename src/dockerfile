@@ -14,4 +14,4 @@ COPY . .
 EXPOSE 5000
 
 # Run the application
-CMD ["python", "no-ty-api.py"]
+CMD ["python", "downloader.py"]
